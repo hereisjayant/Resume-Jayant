@@ -1,0 +1,161 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "projects": "Technical Projects",
+    "awards": "Achievements",
+    "education": "Education",
+    "skills": "Technical Skills",
+    "work": "Work and Volunteer Experience"
+  },
+  "basics": {
+    "name": "Jayant Bhardwaj",
+    "email": "hereisjayant@gmail.com",
+    "phone": "+1-604-404-2790",
+    "location": {
+      "address": "5959 Student Union Blvd. Vancouver, B.C. V6T 1K2"
+    }
+  },
+  "education": [
+    {
+      "location": "Vancouver",
+      "area": "Computer Engineering",
+      "institution": "University of British Columbia (UBC)",
+      "studyType": "Bachelor of Applied Science",
+      "startDate": "Sep 2018",
+      "endDate": "May, 2022 (expected)"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        ""
+      ],
+      "company": "Blue Chip Cafe (UBC Alma Mater Society)",
+      "position": "Barista and Customer Service Representative",
+      "location": "UBC, Vancouver",
+      "startDate": "Jul 2019"
+    },
+    {
+      "highlights": [
+        "Assisted professors throughout their presentation as a TA.",
+        "Learnt about the possibilities that high performance computing and networking."
+      ],
+      "company": "UBC Advanced Research Computing (ARC) and Westgrid",
+      "position": "Volunteer for Research Computing Summer School",
+      "location": "UBC, Vancouver",
+      "startDate": "Jun 2019",
+      "endDate": "Jul 2019"
+    },
+    {
+      "highlights": [
+        "Took inputs of voice packets from smartphones microphone, sent them over to AI API.",
+        " Parsed the outputs and presented the result to the user in form of text and speech",
+        "Consume APIs and invoke them from a mobile application"
+      ],
+      "company": "Smarter.Codes",
+      "position": "Intern Android Developer",
+      "location": "Bangalore, India",
+      "startDate": "Nov 2017",
+      "endDate": "Dec 2017"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "HTML",
+        "Verilog",
+        "Assembly: x86-64, ARM"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "SolidWorks",
+        "MATLAB",
+        "Raspberry Pi",
+        "Android Studio",
+        "Arduino MCU"
+      ],
+      "name": "Framework and Tools"
+    },
+    {
+      "keywords": [
+        " Git, Linux/UNIX, Windows",
+        "IntelliJ",
+        "ModelSim",
+        "Quartus"
+      ],
+      "name": "                                     "
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "Verilog",
+        "Assembly: x86-64, ARM",
+        "DE1-SoC",
+        "ModelSim & Quartus"
+      ],
+      "description": "• Designed and Implemented a 16-bit instruction supported CPU on the FPGA board DE1-SOC using Verilog, Quartus, and ModelSim. • I/O Interrupt signals via external keys and switches would cause the state machine to finish the current instruction, save the contents of its registers, flags and program counter, retrieve the address of the interrupt service routine from a predefined location in memory, and update the program counter with the address.",
+      "name": "Interrupt Supported RISC Machine (Sep-Dec 2019) (UBC)"
+    },
+    {
+      "keywords": [
+        " ARM assembly",
+        "Intel FPGA Monitor Program",
+        "FPGA board DE1-SOC",
+        null
+      ],
+      "name": "A Virtual Memory and Multi-process supported OS (Sep-Dec 2019) (UBC)",
+      "description": "Designed an operating system that supports two concurrent processes using ARM assembly, Intel FPGA Monitor Program, and the FPGA board DE1-SOC. Each process has its own virtual memory space (isolated from each other) and two-level page-tables are supported."
+    },
+    {
+      "keywords": [
+        "Raspberry Pi"
+      ],
+      "name": "Network Ad Blocker (Jun-Jul 2019) (Personal Project)",
+      "description": "A device that would block ads on my Wi-Fi network, by installing Pi-Hole on a Raspberry-Pi, then changing my router’s DNS/DHCP settings and using the Pi-Hole as the only DNS server, thereby routing the network traffic through the Raspberry-Pi which will intercept and deny the access to ad-serving domains, thereby preventing ads from being downloaded."
+    },
+    {
+      "keywords": [
+        "Arduino",
+        "Spreadsheets"
+      ],
+      "name": "Catapult Project (2017)",
+      "description": "Designed a catapult which measures the angular velocity of the throwing arm to predict the Projectile."
+    }
+  ],
+  "awards": [
+    {
+      "title": "2nd position in Japanese Soroban Maths Nationally",
+      "awarder": "Miyajima Institute of Soroban education, Osaka, Japan",
+      "summary": "Secured 2nd position nationally in the 9th national soroban and mental maths competition.",
+      "date": "2013"
+    },
+    {
+      "title": "Part of “Hamari Kaksha” an NGO run for the education of underprivileged children",
+      "date": "2011-2013"
+    },
+    {
+      "awarder": "International Maths Olympiad ( Science Olympiad Foundation )",
+      "title": "1st rank in International Math Olympiad in School",
+      "date": "2015",
+      "summary": "Secured first rank in School and was awarded a Gold medal for it."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
