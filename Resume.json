@@ -176,20 +176,16 @@
   ],
   "awards": [
     {
-      "title": "2nd position in Japanese Soroban Maths Nationally",
-      "awarder": "Miyajima Institute of Soroban education, Osaka, Japan",
-      "summary": "Secured 2nd position nationally in the 9th national soroban and mental maths competition.",
-      "date": "2013"
-    },
-    {
-      "title": "Part of “Hamari Kaksha” an NGO run for the education of underprivileged children",
-      "date": "2011-2013"
-    },
-    {
       "awarder": "International Maths Olympiad ( Science Olympiad Foundation )",
-      "title": "1st rank in International Math Olympiad in School",
+      "title": "First rank in International Math Olympiad in School",
       "date": "2015",
       "summary": "Secured first rank in School and was awarded a Gold medal for it."
+    },
+    {
+      "title": "Second position in Japanese Soroban Maths Nationally",
+      "awarder": "Miyajima Institute of Soroban education, Osaka, Japan",
+      "summary": "Secured the second position nationally in the 9th national soroban and mental maths competition.",
+      "date": "2013"
     }
   ],
   "sections": [
