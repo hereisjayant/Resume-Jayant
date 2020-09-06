@@ -27,8 +27,24 @@
   ],
   "work": [
     {
+      "website": "https://www.codehack.co.in/",
+      "endDate": "Aug 2020",
+      "highlights": [
+        "Ensured the smooth functioning of the C.O.D.E. Hack Hackathon",
+        "Testing and evaluating the technology being used.",
+        "Training the organizers with more efficient and economical techniques for evaluating the submissions.",
+        "Suggesting safer means of information exchange.",
+        "Creating the architecture for the auto-graders of the event.",
+        "Providing training in git to the organizers."
+      ],
+      "company": "C.O.D.E. Hack",
+      "position": "Senior Advisor",
+      "location": "Chandigarh, India",
+      "startDate": "Jul 2020"
+    },
+    {
       "website": "",
-      "endDate": "Present",
+      "endDate": "Mar 2020",
       "highlights": [
         ""
       ],
@@ -59,6 +75,17 @@
       "location": "Bangalore, India",
       "startDate": "Nov 2017",
       "endDate": "Dec 2017"
+    },
+    {
+      "website": "",
+      "endDate": "June 2013",
+      "highlights": [
+        "Volunteered to teach English and Mathematics to a group of 24 underprivileged children."
+      ],
+      "company": "Hamari Kaksha",
+      "position": "English and Math Teacher (Volunteer)",
+      "location": "Chandigarh, India",
+      "startDate": "Jan 2011"
     }
   ],
   "skills": [
