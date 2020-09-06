@@ -27,6 +27,22 @@
   ],
   "work": [
     {
+      "website": "https://www.astinanalytics.com/",
+      "endDate": "Present",
+      "highlights": [
+        "Developing the software for face recognition and thermal scanning, with alerts at high temprature",
+        "Application Development",
+        "Camera Testing",
+        "POC to the customer",
+        "Installation of Cameras & software",
+        "Communication and coordination with customer IT team"
+      ],
+      "company": "Astin Analytics",
+      "position": "Intern",
+      "location": "Chandigarh, India",
+      "startDate": "Aug 2020"
+    },
+    {
       "website": "https://www.codehack.co.in/",
       "endDate": "Aug 2020",
       "highlights": [
