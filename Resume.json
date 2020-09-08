@@ -47,11 +47,11 @@
       "endDate": "Aug 2020",
       "highlights": [
         "Ensured the smooth functioning of the C.O.D.E. Hack Hackathon",
-        "Tested and evaluated the technology being used.",
-        "Trained the organizers with more efficient and economical techniques for evaluating the submissions.",
-        "Advocated for safer means of information exchange.",
-        "Assembled the architecture for the auto-graders of the event.",
-        "Provided training in git to the organizers."
+        "Tested and evaluated the technology being used",
+        "Trained the organizers with more efficient and economical techniques for evaluating the submissions",
+        "Advocated for safer means of information exchange",
+        "Assembled the architecture for the auto-graders of the event",
+        "Provided training in git to the organizers"
       ],
       "company": "C.O.D.E. Hack",
       "position": "Senior Advisor",
@@ -74,8 +74,8 @@
     },
     {
       "highlights": [
-        "Assisted professors throughout their presentation as a TA.",
-        "Learnt about the possibilities that high performance computing and networking."
+        "Assisted professors throughout their presentation as a TA",
+        "Learnt about the possibilities that high performance computing and networking"
       ],
       "company": "UBC Advanced Research Computing (ARC) and Westgrid",
       "position": "Volunteer for Research Computing Summer School",
@@ -85,7 +85,7 @@
     },
     {
       "highlights": [
-        "Took inputs of voice packets from smartphones microphone, sent them over to AI API.",
+        "Took inputs of voice packets from smartphones microphone, sent them over to AI API",
         "Parsed the outputs and presented the result to the user in form of text and speech",
         "Consume APIs and invoke them from a mobile application"
       ],
@@ -99,7 +99,7 @@
       "website": "",
       "endDate": "June 2013",
       "highlights": [
-        "Volunteered to teach English and Mathematics to a group of 24 underprivileged children."
+        "Volunteered to teach English and Mathematics to a group of 24 underprivileged children"
       ],
       "company": "Hamari Kaksha",
       "position": "English and Math Teacher (Volunteer)",
@@ -177,7 +177,7 @@
         "Spreadsheets"
       ],
       "name": "Catapult Project (2017)",
-      "description": "Designed a catapult which measures the angular velocity of the throwing arm to predict the Projectile."
+      "description": "Designed a catapult which measures the angular velocity of the throwing arm to predict the Projectile"
     }
   ],
   "awards": [
@@ -185,12 +185,12 @@
       "awarder": "International Maths Olympiad ( Science Olympiad Foundation )",
       "title": "First rank in International Math Olympiad in School",
       "date": "2015",
-      "summary": "Secured first rank in School and was awarded a Gold medal for it."
+      "summary": "Secured first rank in School and was awarded a Gold medal for it"
     },
     {
       "title": "Second position in Japanese Soroban Maths Nationally",
       "awarder": "Miyajima Institute of Soroban education, Osaka, Japan",
-      "summary": "Secured the second position nationally in the 9th national soroban and mental maths competition.",
+      "summary": "Secured the second position nationally in the 9th national soroban and mental maths competition",
       "date": "2013"
     }
   ],
