@@ -30,11 +30,11 @@
       "website": "https://www.astinanalytics.com/",
       "endDate": "Present",
       "highlights": [
-        "Developing the software for face recognition and thermal scanning, with alerts at high temprature",
-        "Application Development",
+        "Developing software for face recognition and thermal scanning, with alerts at high temprature",
+        "Application Development using Python",
         "Camera Testing",
-        "POC to the customer",
-        "Installation of Cameras & software",
+        "POC to customer",
+        "Installed cameras & software",
         "Communication and coordination with customer IT team"
       ],
       "company": "Astin Analytics",
@@ -47,11 +47,11 @@
       "endDate": "Aug 2020",
       "highlights": [
         "Ensured the smooth functioning of the C.O.D.E. Hack Hackathon",
-        "Testing and evaluating the technology being used.",
-        "Training the organizers with more efficient and economical techniques for evaluating the submissions.",
-        "Suggesting safer means of information exchange.",
-        "Creating the architecture for the auto-graders of the event.",
-        "Providing training in git to the organizers."
+        "Tested and evaluated the technology being used.",
+        "Trained the organizers with more efficient and economical techniques for evaluating the submissions.",
+        "Advocated for safer means of information exchange.",
+        "Assembled the architecture for the auto-graders of the event.",
+        "Provided training in git to the organizers."
       ],
       "company": "C.O.D.E. Hack",
       "position": "Senior Advisor",
@@ -86,7 +86,7 @@
     {
       "highlights": [
         "Took inputs of voice packets from smartphones microphone, sent them over to AI API.",
-        " Parsed the outputs and presented the result to the user in form of text and speech",
+        "Parsed the outputs and presented the result to the user in form of text and speech",
         "Consume APIs and invoke them from a mobile application"
       ],
       "company": "Smarter.Codes",
@@ -114,6 +114,7 @@
         "C",
         "C++",
         "Java",
+        "Python",
         "HTML",
         "Verilog",
         "Assembly: x86-64, ARM"
@@ -125,14 +126,16 @@
         "SolidWorks",
         "MATLAB",
         "Raspberry Pi",
-        "Android Studio",
-        "Arduino MCU"
+        "Arduino MCU",
+        "OpenCV",
+        "Android Studio"
       ],
       "name": "Framework and Tools"
     },
     {
       "keywords": [
         " Git, Linux/UNIX, Windows",
+        "Pycharm",
         "IntelliJ",
         "ModelSim",
         "Quartus"
