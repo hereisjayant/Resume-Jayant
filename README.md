@@ -64,7 +64,7 @@ C, C++, Java, HTML, Markdown, Verilog, Assembly: x86-64, ARM
 ### Framework and Tools
 
 ```
-SolidWorks, MATLAB, Raspberry Pi, Android Studio, Arduino MCU,Git, Linux/UNIX, Windows, IntelliJ, ModelSim, Quartus
+SolidWorks, MATLAB, Raspberry Pi, Android Studio, Arduino MCU, Git, Linux/UNIX, Windows, IntelliJ, ModelSim, Quartus
 ```
 ## Technical Projects
 
