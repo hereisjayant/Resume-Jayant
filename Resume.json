@@ -30,15 +30,16 @@
       "website": "https://www.astinanalytics.com/",
       "endDate": "Present",
       "highlights": [
-        "Developing software for face recognition and thermal scanning, with alerts at high temprature",
+        "Developing software for face recognition and thermal scanning, with alerts at high temperature for Covid-19",
         "Application Development using Python",
-        "Camera Testing",
+        "Face recognition using OpenCV",
+        "Camera and Software Testing",
         "POC to customer",
         "Installed cameras & software",
         "Communication and coordination with customer IT team"
       ],
-      "company": "Astin Analytics",
-      "position": "Intern",
+      "company": "Astin Analytics Pvt. Ltd.",
+      "position": "Developer Intern",
       "location": "Chandigarh, India",
       "startDate": "Aug 2020"
     },
@@ -54,7 +55,7 @@
         "Provided training in git to the organizers"
       ],
       "company": "C.O.D.E. Hack",
-      "position": "Senior Advisor",
+      "position": "Senior Technical Advisor",
       "location": "Chandigarh, India",
       "startDate": "Jul 2020"
     },
