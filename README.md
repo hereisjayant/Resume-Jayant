@@ -1,5 +1,5 @@
 <h1 align="center">
-# **Jayant Bhardwaj**
+Jayant Bhardwaj
 </h1>
 
 <p align="center">
