@@ -1,4 +1,4 @@
-# Jayant Bhardwaj
+# **Jayant Bhardwaj**
 
 📧hereisjayant@gmail.com |📱+1-604-404-2790 |📍5959 Student Union Blvd. Vancouver, B.C. V6T 1K
 
@@ -8,7 +8,7 @@ BACHELOR OF APPLIED SCIENCE IN COMPUTER ENGINEERING Sep 2018 – May, 2022 (expe
 
 ## Work and Volunteer Experience
 
-### Astin Analytics Pvt. Ltd.         <div style="text-align: right">Chandigarh, India</div>
+### **Astin Analytics Pvt. Ltd.**                              Chandigarh, India
 #### DEVELOPER INTERN                                         Aug 2020 – Present
 
 - Developing software for face recognition and thermal scanning, with alerts at high temperature for Covid-19
@@ -19,7 +19,7 @@ BACHELOR OF APPLIED SCIENCE IN COMPUTER ENGINEERING Sep 2018 – May, 2022 (expe
 - Installed cameras & software
 - Communication and coordination with customer IT team
 
-### C.O.D.E. Hack Hackathon                                    Chandigarh, India
+### **C.O.D.E. Hack Hackathon**                                Chandigarh, India
 #### SENIOR TECHNICAL ADVISOR                                Jul 2020 – Aug 2020
 
 - Ensured the smooth functioning of the C.O.D.E. Hack Hackathon
@@ -29,7 +29,7 @@ BACHELOR OF APPLIED SCIENCE IN COMPUTER ENGINEERING Sep 2018 – May, 2022 (expe
 - Assembled the architecture for the auto-graders of the event
 - Provided training in git to the organizers
 
-### Blue Chip Cafe (UBC Alma Mater Society)                       UBC, Vancouver
+### **Blue Chip Cafe (UBC Alma Mater Society)**                   UBC, Vancouver
 #### BARISTA AND CUSTOMER SERVICE REPRESENTATIVE              Jul 2019 – Present
 
 - Process drink orders that range from basic to complex, quickly and efficiently
@@ -38,20 +38,20 @@ BACHELOR OF APPLIED SCIENCE IN COMPUTER ENGINEERING Sep 2018 – May, 2022 (expe
 - Take customer orders and process payments
 
 
-### UBC Advanced Research Computing (ARC) and Westgrid            UBC, Vancouver
+### **UBC Advanced Research Computing (ARC) and Westgrid**        UBC, Vancouver
 #### VOLUNTEER FOR RESEARCH COMPUTING SUMMER SCHOOL          Jun 2019 – Jul 2019
 
 - Assisted professors throughout their presentation as a TA.
 - Learnt about the possibilities that high performance computing and networking.
 
-### Smarter.Codes                                               Bangalore, India
+### **Smarter.Codes**                                           Bangalore, India
 #### INTERN ANDROID DEVELOPER                                Nov 2017 – Dec 2017
 
 - Took inputs of voice packets from smartphones microphone, sent them over to AI API.
 - Parsed the outputs and presented the result to the user in form of text and speech
 - Consume APIs and invoke them from a mobile application
 
-### Hamari Kaksha                                              Chandigarh, India
+### **Hamari Kaksha**                                          Chandigarh, India
 #### ENGLISH AND MATH TEACHER (VOLUNTEER)                   Jan 2011 – June 2013
 
 - Volunteered to teach English and Mathematics to a group of 24 underprivileged children
