@@ -8,7 +8,7 @@ BACHELOR OF APPLIED SCIENCE IN COMPUTER ENGINEERING Sep 2018 – May, 2022 (expe
 
 ## Work and Volunteer Experience
 
-### Astin Analytics Pvt. Ltd.                                  Chandigarh, India
+### Astin Analytics Pvt. Ltd.         <div style="text-align: right">Chandigarh, India</div>
 #### DEVELOPER INTERN                                         Aug 2020 – Present
 
 - Developing software for face recognition and thermal scanning, with alerts at high temperature for Covid-19
