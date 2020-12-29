@@ -1,8 +1,10 @@
-<p align="center">
+<h1 align="center">
 # **Jayant Bhardwaj**
-</p>
+</h1>
 
+<p align="center">
 📧hereisjayant@gmail.com |📱+1-604-404-2790 |📍5959 Student Union Blvd. Vancouver, B.C. V6T 1K
+</p>
 
 ## Education
 ### University of British Columbia (UBC) Vancouver
