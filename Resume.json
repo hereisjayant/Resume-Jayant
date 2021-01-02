@@ -146,6 +146,42 @@
   ],
   "projects": [
     {
+    "keywords": [
+      "Java",
+      "FSFT Buffer",
+      "ANTLR",
+      "JSON",
+      "JWiki API",
+      "IntelliJ"
+    ],
+    "description": "Implemented an FSFT(Finite Space Finite Time) Buffer that can handle multiple threads to be used as data-cache. Create a mediator service for Wikipedia using the JWiki API that obtains pages and other relevant information. The mediator service supports structured queries which use ANTLR for parser generation. FSFT buffer was used to cache the Wikipedia pages to minimize network accesses. Also implemented a server application that wraps the mediator service capable of processing multiple client requests simultaneously, using JSON to exchange information.",
+    "name": "Mediator Service and Server for Wikipedia (Sep-Dec 2020) (UBC)"
+  },
+  {
+  "keywords": [
+    "Java",
+    "Image processing",
+    "Computer Vision",
+    "DFT",
+    "IntelliJ"
+  ],
+  "description": "Implemented a datatype using core libraries in Java that allows you to perform various Image processing and Computer Vision operations on an image. This involved implementing and documenting operations like mirroring, clipping, de-noising, rotation using nearest neighbour interpolation, comparison of images using cosine similarity, calculating the DFT of the images. Advanced operations like green-screening and algorithms to align text of skewed scanned documents using DFT were also implemented with tests having 100% class coverage.",
+  "name": "Image Processing and Computer Vision Project (Sep-Dec 2020) (UBC)"
+},
+    {
+      "keywords": [
+        "Java",
+        "Adjacency List",
+        "Adjacency Matrix",
+        "BFS",
+        "DFS",
+        "Graphs",
+        "IntelliJ"
+      ],
+      "description": "Implemented graph using Adjacency List and Adjacency Matrix. Implemented graph algorithms like Breadth first search (BFS), Depth first search (DFS), calculating common upstream/downstream vertices, distance and Graph diameter. Used these algorithms to analyse an anonymized dataset from Twitter to get the common followers of two users, and the minimum number of retweets needed to get user A's tweet appears in user B's feed.",
+      "name": "Analysing Social Networks (Sep-Dec 2019) (UBC)"
+    },
+    {
       "keywords": [
         "Verilog",
         "Assembly: x86-64, ARM",
