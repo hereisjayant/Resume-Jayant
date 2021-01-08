@@ -30,13 +30,12 @@
       "website": "https://www.astinanalytics.com/",
       "endDate": "Present",
       "highlights": [
-        "Developing software for face recognition and thermal scanning, with alerts at high temperature for Covid-19",
-        "Application Development using Python",
-        "Face recognition using OpenCV",
-        "Camera and Software Testing",
-        "POC to customer",
-        "Installed cameras & software",
-        "Communication and coordination with customer IT team"
+        "Planned a solution for mass thermal scanning with a team of developers",
+        "Created a mediator service to obtain the stream processed by the API developed",
+        "Implemented a server application that wraps the mediator service, capable of handling multiple client requests simultaneously",
+        "Developed a client for linux that would display the processed camera stream and faces recognized along with the temperature",
+        "Successfully unit tested the client and server",
+        "Coordination with customer’s IT team"
       ],
       "company": "Astin Analytics Pvt. Ltd.",
       "position": "Developer Intern",
