@@ -67,7 +67,7 @@
         "Sell and merchandise other store products such as pastries, drinkware and seasonal items",
         "Take customer orders and process payments"
       ],
-      "company": "Blue Chip Cafe (UBC Alma Mater Society)",
+      "company": "Alma Mater Society of UBC Vancouver",
       "position": "Barista and Customer Service Representative",
       "location": "UBC, Vancouver",
       "startDate": "Jul 2019"
@@ -206,28 +206,6 @@
       ],
       "name": "Network Ad Blocker (Jun-Jul 2019) (Personal Project)",
       "description": "A device that would block ads on my Wi-Fi network, by installing Pi-Hole on a Raspberry-Pi, then changing my router’s DNS/DHCP settings and using the Pi-Hole as the only DNS server, thereby routing the network traffic through the Raspberry-Pi which will intercept and deny the access to ad-serving domains, thereby preventing ads from being downloaded."
-    },
-    {
-      "keywords": [
-        "Arduino",
-        "Spreadsheets"
-      ],
-      "name": "Catapult Project (2017)",
-      "description": "Designed a catapult which measures the angular velocity of the throwing arm to predict the Projectile"
-    }
-  ],
-  "awards": [
-    {
-      "awarder": "International Maths Olympiad ( Science Olympiad Foundation )",
-      "title": "First rank in International Math Olympiad in School",
-      "date": "2015",
-      "summary": "Secured first rank in School and was awarded a Gold medal for it"
-    },
-    {
-      "title": "Second position in Japanese Soroban Maths Nationally",
-      "awarder": "Miyajima Institute of Soroban education, Osaka, Japan",
-      "summary": "Secured the second position nationally in the 9th national soroban and mental maths competition",
-      "date": "2013"
     }
   ],
   "sections": [
