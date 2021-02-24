@@ -30,10 +30,9 @@
       "website": "https://www.astinanalytics.com/",
       "endDate": "Present",
       "highlights": [
-        "Planned a solution for mass thermal scanning with a team of developers",
-        "Created a mediator service to obtain the stream processed by the API developed",
-        "Implemented a server application that wraps the mediator service, capable of handling multiple client requests simultaneously",
-        "Developed a client for linux that would display the processed camera stream and faces recognized along with the temperature",
+        "Implement a solution for mass thermal scanning with a team of developers",
+        "Learnt about the OpenCV framework within the time constraints of the project",
+        "Helped develop a server application, capable of handling multiple client requests simultaneously in Python for the project",
         "Successfully unit tested the client and server",
         "Coordination with customer’s IT team"
       ],
