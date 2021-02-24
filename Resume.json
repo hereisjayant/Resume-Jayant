@@ -115,6 +115,7 @@
         "C++",
         "Java",
         "Python",
+        "JavaScript",
         "HTML",
         "Verilog",
         "Assembly: x86-64, ARM"
@@ -123,19 +124,22 @@
     },
     {
       "keywords": [
+        "PyTorch",
+        "OpenCV",
+        "Android Studio",
         "SolidWorks",
         "MATLAB",
         "Raspberry Pi",
-        "Arduino MCU",
-        "OpenCV",
-        "Android Studio"
+        "Arduino MCU"
       ],
       "name": "Framework and Tools"
     },
     {
       "keywords": [
-        " Git, Linux/UNIX, Windows",
+        " Git",
+        "Linux/UNIX, Windows",
         "Pycharm",
+        "Google Colab",
         "IntelliJ",
         "ModelSim",
         "Quartus"
@@ -145,28 +149,77 @@
   ],
   "projects": [
     {
-    "keywords": [
-      "Java",
-      "FSFT Buffer",
-      "ANTLR",
-      "JSON",
-      "JWiki API",
-      "IntelliJ"
-    ],
-    "description": "Implemented an FSFT(Finite Space Finite Time) Buffer that can handle multiple threads to be used as data-cache. Create a mediator service for Wikipedia using the JWiki API that obtains pages and other relevant information. The mediator service supports structured queries which use ANTLR for parser generation. FSFT buffer was used to cache the Wikipedia pages to minimize network accesses. Also implemented a server application that wraps the mediator service capable of processing multiple client requests simultaneously, using JSON to exchange information.",
-    "name": "Mediator Service and Server for Wikipedia (Sep-Dec 2020) (UBC)"
-  },
-  {
-  "keywords": [
-    "Java",
-    "Image processing",
-    "Computer Vision",
-    "DFT",
-    "IntelliJ"
-  ],
-  "description": "Implemented a datatype using core libraries in Java that allows you to perform various Image processing and Computer Vision operations on an image. This involved implementing and documenting operations like mirroring, clipping, de-noising, rotation using nearest neighbour interpolation, comparison of images using cosine similarity, calculating the DFT of the images. Advanced operations like green-screening and algorithms to align text of skewed scanned documents using DFT were also implemented with tests having 100% class coverage.",
-  "name": "Image Processing and Computer Vision Project (Sep-Dec 2020) (UBC)"
-},
+      "keywords": [
+        "Machine Learning",
+        "PyTorch",
+        "Sentiment Analysis",
+        "Python",
+        "NLP",
+        "Google Colab"
+      ],
+      "description": "Classified short news stories from a press dataset into four categories: world, sports, business, and sci/tech. Trained the embedding via gradient descent",
+      "name": "Text classification using Sentiment Analysis (Jan-Feb 2021)"
+    },
+    {
+      "keywords": [
+        "Machine Learning",
+        "PyTorch",
+        "Transfer Learning",
+        "Python",
+        "Computer Vision",
+        "Google Colab"
+      ],
+      "description": "Used transfer learning on ResNet-18, by replacing the fully connected layer with one that has 2 outputs to classify the Charter Arms Bulldog and Glock 17, trained the network using stochastic gradient descent that produced percent accuracy in the high ninties",
+      "name": "Image classification using Transfer Learning (Jan-Feb 2021)"
+    },
+    {
+      "keywords": [
+        "C",
+        "Memory Allocator",
+        "Linux",
+        "Big Integer",
+        "Valgrind",
+        "Memory management",
+        "Computer Systems"
+      ],
+      "description": "Implemented doubly-linked lists from scratch in C, and used it to implement the Big Integer library. Also implemented a memory allocator for C, that uses an implicit free list to store blocks that make up the heap.",
+      "name": "Big Integer Library and Memory Allocator for C (Jan-Feb 2020)"
+    },
+    {
+      "keywords": [
+        "y86-64",
+        "C",
+        "Debugger",
+        "Linux",
+        "Computer Systems"
+      ],
+      "description": "Implemented a GDB like debugger for y86-64 written in C and y86-64, similar to what GDB does for programs written in C. It supports commands like 'quit', 'step', 'run', 'next', 'jump X', 'Registers', 'Break X' etc. ",
+      "name": "Debugger for y86-64 (Jan-Feb 2021)"
+    },
+    {
+      "keywords": [
+        "Java",
+        "FSFT Buffer",
+        "ANTLR",
+        "JSON",
+        "JWiki API",
+        "IntelliJ"
+      ],
+      "description": "Implemented an FSFT(Finite Space Finite Time) Buffer that can handle multiple threads to be used as data-cache. Create a mediator service for Wikipedia using the JWiki API that obtains pages and other relevant information. The mediator service supports structured queries which use ANTLR for parser generation. FSFT buffer was used to cache the Wikipedia pages to minimize network accesses. Also implemented a server application that wraps the mediator service capable of processing multiple client requests simultaneously, using JSON to exchange information.",
+      "name": "Mediator Service and Server for Wikipedia (Sep-Dec 2020) (UBC)"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Image processing",
+        "JUnit",
+        "Computer Vision",
+        "DFT",
+        "IntelliJ"
+      ],
+      "description": "Implemented a datatype using core libraries in Java that allows you to perform various Image processing and Computer Vision operations on an image calculating the DFT, cosine similarity of the images in order to support advanced operations like green-screening and text-alignment algorithms with complete testing using JUnit.",
+      "name": "Image Processing and Computer Vision Project (Sep-Dec 2020) (UBC)"
+    },
     {
       "keywords": [
         "Java",
@@ -177,7 +230,7 @@
         "Graphs",
         "IntelliJ"
       ],
-      "description": "Implemented graph using Adjacency List and Adjacency Matrix. Implemented graph algorithms like Breadth first search (BFS), Depth first search (DFS), calculating common upstream/downstream vertices, distance and Graph diameter. Used these algorithms to analyse an anonymized dataset from Twitter to get the common followers of two users, and the minimum number of retweets needed to get user A's tweet appears in user B's feed.",
+      "description": "Implemented graph using Adjacency List and Adjacency Matrix and graph algorithms like BFS and DFS and used these algorithms implement features like analysing an anonymized dataset from Twitter to get the common followers of two users, and the minimum number of retweets needed to get user A's tweet appears in user B's feed.",
       "name": "Analysing Social Networks (Sep-Dec 2019) (UBC)"
     },
     {
@@ -189,25 +242,9 @@
       ],
       "description": "• Designed and Implemented a 16-bit instruction supported CPU on the FPGA board DE1-SOC using Verilog, Quartus, and ModelSim. • I/O Interrupt signals via external keys and switches would cause the state machine to finish the current instruction, save the contents of its registers, flags and program counter, retrieve the address of the interrupt service routine from a predefined location in memory, and update the program counter with the address.",
       "name": "Interrupt Supported RISC Machine (Sep-Dec 2019) (UBC)"
-    },
-    {
-      "keywords": [
-        " ARM assembly",
-        "Intel FPGA Monitor Program",
-        "FPGA board DE1-SOC",
-        null
-      ],
-      "name": "A Virtual Memory and Multi-process supported OS (Sep-Dec 2019) (UBC)",
-      "description": "Designed an operating system that supports two concurrent processes using ARM assembly, Intel FPGA Monitor Program, and the FPGA board DE1-SOC. Each process has its own virtual memory space (isolated from each other) and two-level page-tables are supported."
-    },
-    {
-      "keywords": [
-        "Raspberry Pi"
-      ],
-      "name": "Network Ad Blocker (Jun-Jul 2019) (Personal Project)",
-      "description": "A device that would block ads on my Wi-Fi network, by installing Pi-Hole on a Raspberry-Pi, then changing my router’s DNS/DHCP settings and using the Pi-Hole as the only DNS server, thereby routing the network traffic through the Raspberry-Pi which will intercept and deny the access to ad-serving domains, thereby preventing ads from being downloaded."
     }
   ],
+  "awards": [],
   "sections": [
     "templates",
     "profile",
